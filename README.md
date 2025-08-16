@@ -37,7 +37,3 @@ I'm a simple person who love all in info
   </a>
 </p>
 
----
-
-## 🐍 GitHub Activity Snake
-![snake gif](https://github.com/MJVhack/MJVhack/blob/output/github-contribution-grid-snake.svg)
