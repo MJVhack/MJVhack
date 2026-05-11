@@ -1,13 +1,13 @@
-# 😼 Hey, I'm MJVhack
+# 😼 Hey, I'm Evil Diabriek (or MJVHack)
 
 I'm a simple person who love all in info
 
 ---
 
 ## 🐱 About Me
-- 🎓 Passionate about coding and building creative apps  
-- 💡 Always learning new frameworks and tools  
-- 🎵 Music lover, gamer & cat enjoyer  
+- 🎓 Passionate about coding 
+- 💡 Always coding in C++
+- 🎵 Music lover, gamer & cat lover  
 
 ---
 
@@ -15,7 +15,6 @@ I'm a simple person who love all in info
 <p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
