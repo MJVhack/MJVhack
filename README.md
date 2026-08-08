@@ -1,13 +1,25 @@
-# 😼 Hey, I'm Evil Diabriek (or MJVHack)
+# Hey, I'm Evil Diabriek 
 
-I'm a simple person who love all in info
-
+I'm a C and C++ developper
+He/his
 ---
 
-## 🐱 About Me
-- 🎓 Passionate about coding 
-- 💡 Always coding in C++
-- 🎵 Music lover, gamer & cat lover  
+## Me
+------- Dev --------  
+I actually working on [Ed Linux Macro](https://github.com/evildiabriek/ED-Linux-Macro)  
+my own macro for the game [Sol's RNG Roblox](https://www.roblox.com/games/15532962292/Sols-RNG)  
+I dream to go 42.  
+Owner of the developpement community discord [Ednity](https://discord.gg/QjHCGyh2UT)  
+
+------- Sol's Rng -------  
+Actually at 17+ million roll, compulsive player.  
+Pour les joueurs Sols Rng Linux, ma macro que j'ai présenter au-dessus est pour vous.  
+N'hésitez pas a l'utiliser et a me MP au moindre problème  
+
+-------- Music --------  
+Hyperpop lover  
+Neophron / Ptite soeur / Bloodysanji / Dinnomo
+
 
 ---
 
