@@ -1,6 +1,6 @@
 # Hey, I'm Evil Diabriek 
 
-I'm a C and C++ developper
+I'm a C and C++ developper  
 He/his
 ---
 
