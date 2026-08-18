@@ -12,7 +12,7 @@ I dream to go 42.
 Owner of the developpement community discord [Ednity](https://discord.gg/QjHCGyh2UT)  
 
 ------- Sol's Rng -------  
-Actually at 17+ million roll, compulsive player.  
+Actually at 20+ million roll, compulsive player.  
 Pour les joueurs Sols Rng Linux, ma macro que j'ai présenter au-dessus est pour vous.  
 N'hésitez pas a l'utiliser et a me MP au moindre problème  
 
