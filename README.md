@@ -20,6 +20,12 @@ N'hésitez pas a l'utiliser et a me MP au moindre problème
 Hyperpop lover  
 Neophron / Ptite soeur / Bloodysanji / Dinnomo
 
+-------- PS ---------   
+[Ed Linux Macro](https://github.com/evildiabriek/ED-Linux-Macro) est actuellement en rework,  
+la version actuelle sur le github NE MARCHE PAS, elle segfault.  
+Je suis entrain de travaillé sur une version en Zig.  
+Je préfère, le langage est plus complet et surtout cross compile.
+
 
 ---
 
